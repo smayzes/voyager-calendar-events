@@ -190,7 +190,6 @@ class DataRowsVenuesTableSeeder extends Seeder
             ])->save();
         }
 
-
         $dataRow = $this->dataRow($dataType, 'status');
         if (! $dataRow->exists) {
             $dataRow->fill([
