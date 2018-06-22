@@ -2,14 +2,14 @@
 
 namespace Codelabs\VoyagerCalendarEvents\Database\Seeds;
 
+use Illuminate\Database\Seeder;
+use TCG\Voyager\Models\DataType;
 use Codelabs\VoyagerCalendarEvents\Models\Event;
 use Codelabs\VoyagerCalendarEvents\Models\Group;
 use Codelabs\VoyagerCalendarEvents\Models\Venue;
 use Codelabs\VoyagerCalendarEvents\Policies\EventPolicy;
 use Codelabs\VoyagerCalendarEvents\Policies\GroupPolicy;
 use Codelabs\VoyagerCalendarEvents\Policies\VenuePolicy;
-use Illuminate\Database\Seeder;
-use TCG\Voyager\Models\DataType;
 
 class DataTypesTableSeeder extends Seeder
 {
