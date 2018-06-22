@@ -1,9 +1,9 @@
-# VoyagerCalendar Events
+# Voyager Calendar Events
 
 [![Latest Version on Packagist][ico-version]][link-packagist]
 [![Total Downloads][ico-downloads]][link-downloads]
 [![Build Status][ico-travis]][link-travis]
-<a href="https://styleci.io/repos/138051317/shield?style=flat"><img src="https://styleci.io/repos/138051317/shield?style=flat" alt="Build Status"></a>
+<a href="https://styleci.io/repos/138236160/shield?style=flat"><img src="https://styleci.io/repos/138236160/shield?style=flat" alt="Build Status"></a>
 
 
 Laravel Voyager Calendar Events BREAD. 
@@ -56,11 +56,11 @@ MIT. Please see the [license file](license.md) for more information.
 [ico-version]: https://img.shields.io/packagist/v/codelabs/voyagercalendarevents.svg?style=flat-square
 [ico-downloads]: https://img.shields.io/packagist/dt/codelabs/voyagercalendarevents.svg?style=flat-square
 [ico-travis]: https://img.shields.io/travis/codelabs/voyagercalendarevents/master.svg?style=flat-square
-[ico-styleci]: https://styleci.io/repos/138051317/shield
+[ico-styleci]: https://styleci.io/repos/138236160/shield
 
 [link-packagist]: https://packagist.org/packages/codelabs/voyagercalendarevents
 [link-downloads]: https://packagist.org/packages/codelabs/voyagercalendarevents
 [link-travis]: https://travis-ci.org/codelabs/voyagercalendarevents
-[link-styleci]: https://styleci.io/repos/138051317
+[link-styleci]: https://styleci.io/repos/138236160
 [link-author]: https://github.com/codelabs
 [link-contributors]: ../../contributors]
