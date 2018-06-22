@@ -2,7 +2,6 @@
 
 namespace Codelabs\VoyagerCalendarEvents;
 
-use Codelabs\VoyagerCalendarEvents\VoyagerCalendarEvents;
 use Illuminate\Support\ServiceProvider;
 
 class VoyagerCalendarEventsServiceProvider extends ServiceProvider
