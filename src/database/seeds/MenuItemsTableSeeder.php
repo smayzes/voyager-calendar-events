@@ -44,8 +44,7 @@ class MenuItemsTableSeeder extends Seeder
                 'target'     => '_self',
                 'icon_class' => 'voyager-shop',
                 'color'      => null,
-//                'parent_id'  => $parentMenuItem->id,
-                'parent_id'  => null,
+                'parent_id'  => $parentMenuItem->id,
                 'order'      => MenuItem::count() + 1,
             ])->save();
         }
